@@ -1,0 +1,27 @@
+/* Shared, minimal base. Screen-specific styles live in src/kid/ and src/parent/. */
+:root {
+  font: 18px/1.45 system-ui, 'Segoe UI', Roboto, sans-serif;
+  color: #1f2430;
+  background: #f7f7f4;
+  -webkit-font-smoothing: antialiased;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100svh;
+}
+
+button {
+  font: inherit;
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: not-allowed;
+}

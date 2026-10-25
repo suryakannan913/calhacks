@@ -1,0 +1,1312 @@
+{
+ "again": {
+  "arasaac": 37163,
+  "matched": "again",
+  "query": "again"
+ },
+ "all-done": {
+  "arasaac": 5358,
+  "matched": "finish",
+  "query": "finish"
+ },
+ "angry": {
+  "arasaac": 2374,
+  "matched": "angry",
+  "query": "angry"
+ },
+ "apple": {
+  "arasaac": 2462,
+  "matched": "apple",
+  "query": "apple"
+ },
+ "are": {
+  "arasaac": 5581,
+  "matched": "(override)",
+  "query": "be"
+ },
+ "are-you-okay": {
+  "arasaac": 5397,
+  "matched": "well",
+  "query": "ok"
+ },
+ "art": {
+  "arasaac": 2360,
+  "matched": "painting",
+  "query": "painting"
+ },
+ "baby": {
+  "arasaac": 2275,
+  "matched": "baby",
+  "query": "baby"
+ },
+ "backpack": {
+  "arasaac": 2475,
+  "matched": "rucksack",
+  "query": "backpack"
+ },
+ "ball": {
+  "arasaac": 2269,
+  "matched": "ball",
+  "query": "ball"
+ },
+ "banana": {
+  "arasaac": 2530,
+  "matched": "banana",
+  "query": "banana"
+ },
+ "band-aid": {
+  "arasaac": 6243,
+  "matched": "bandage",
+  "query": "bandage"
+ },
+ "bath": {
+  "arasaac": 2272,
+  "matched": "bathtub",
+  "query": "bath"
+ },
+ "bathroom": {
+  "arasaac": 5921,
+  "matched": "toilet",
+  "query": "bathroom"
+ },
+ "bear": {
+  "arasaac": 2488,
+  "matched": "bear",
+  "query": "bear"
+ },
+ "bed": {
+  "arasaac": 2304,
+  "matched": "bed",
+  "query": "bed"
+ },
+ "bedroom": {
+  "arasaac": 5988,
+  "matched": "bedroom",
+  "query": "bedroom"
+ },
+ "bicycle": {
+  "arasaac": 2277,
+  "matched": "bicycle",
+  "query": "bicycle"
+ },
+ "big": {
+  "arasaac": 4658,
+  "matched": "large",
+  "query": "big"
+ },
+ "bird": {
+  "arasaac": 2490,
+  "matched": "bird",
+  "query": "bird"
+ },
+ "black": {
+  "arasaac": 2886,
+  "matched": "black",
+  "query": "black"
+ },
+ "blanket": {
+  "arasaac": 2459,
+  "matched": "blanket",
+  "query": "blanket"
+ },
+ "blocks": {
+  "arasaac": 4921,
+  "matched": "blocks",
+  "query": "blocks"
+ },
+ "blue": {
+  "arasaac": 3355,
+  "matched": "blue",
+  "query": "blue"
+ },
+ "book": {
+  "arasaac": 2450,
+  "matched": "book",
+  "query": "book"
+ },
+ "bored": {
+  "arasaac": 35531,
+  "matched": "bored",
+  "query": "bored"
+ },
+ "bread": {
+  "arasaac": 2494,
+  "matched": "bread",
+  "query": "bread"
+ },
+ "break": {
+  "arasaac": 3299,
+  "matched": "rest",
+  "query": "rest"
+ },
+ "brother": {
+  "arasaac": 2423,
+  "matched": "brother",
+  "query": "brother"
+ },
+ "brown": {
+  "arasaac": 2923,
+  "matched": "brown",
+  "query": "brown"
+ },
+ "brush-teeth": {
+  "arasaac": 2326,
+  "matched": "brush teeth",
+  "query": "brush teeth"
+ },
+ "bubbles": {
+  "arasaac": 6945,
+  "matched": "bubbles",
+  "query": "bubbles"
+ },
+ "bus": {
+  "arasaac": 32370,
+  "matched": "school bus",
+  "query": "school bus"
+ },
+ "butterfly": {
+  "arasaac": 2465,
+  "matched": "butterfly",
+  "query": "butterfly"
+ },
+ "bye": {
+  "arasaac": 5896,
+  "matched": "goodbye",
+  "query": "goodbye"
+ },
+ "cake": {
+  "arasaac": 2502,
+  "matched": "cake",
+  "query": "cake"
+ },
+ "calm": {
+  "arasaac": 31310,
+  "matched": "calm",
+  "query": "calm"
+ },
+ "can": {
+  "arasaac": 11750,
+  "matched": "(override)",
+  "query": "can"
+ },
+ "can-i": {
+  "arasaac": 34697,
+  "matched": "request permission",
+  "query": "request permission"
+ },
+ "can-we": {
+  "arasaac": 27865,
+  "matched": "permission",
+  "query": "permission"
+ },
+ "car": {
+  "arasaac": 2339,
+  "matched": "car",
+  "query": "car"
+ },
+ "carrot": {
+  "arasaac": 2619,
+  "matched": "carrot",
+  "query": "carrot"
+ },
+ "cat": {
+  "arasaac": 2406,
+  "matched": "cat",
+  "query": "cat"
+ },
+ "cat-actions": {
+  "arasaac": 2719,
+  "matched": "run",
+  "query": "run"
+ },
+ "cat-animals": {
+  "arasaac": 2517,
+  "matched": "dog",
+  "query": "dog"
+ },
+ "cat-colors": {
+  "arasaac": 2986,
+  "matched": "rainbow",
+  "query": "rainbow"
+ },
+ "cat-core": {
+  "arasaac": 2752,
+  "matched": "star",
+  "query": "star"
+ },
+ "cat-feelings": {
+  "arasaac": 3245,
+  "matched": "content",
+  "query": "happy"
+ },
+ "cat-food": {
+  "arasaac": 2462,
+  "matched": "apple",
+  "query": "apple"
+ },
+ "cat-home": {
+  "arasaac": 2317,
+  "matched": "house",
+  "query": "house"
+ },
+ "cat-needs": {
+  "arasaac": 6243,
+  "matched": "bandage",
+  "query": "bandage"
+ },
+ "cat-questions": {
+  "arasaac": 7217,
+  "matched": "question",
+  "query": "question"
+ },
+ "cat-school": {
+  "arasaac": 3082,
+  "matched": "school",
+  "query": "school"
+ },
+ "cat-social": {
+  "arasaac": 6009,
+  "matched": "hello",
+  "query": "hello"
+ },
+ "cat-toys": {
+  "arasaac": 4945,
+  "matched": "teddy-bear",
+  "query": "teddy bear"
+ },
+ "catch": {
+  "arasaac": 39647,
+  "matched": "(override)",
+  "query": "catch"
+ },
+ "cereal": {
+  "arasaac": 34749,
+  "matched": "cereal",
+  "query": "cereal"
+ },
+ "cheese": {
+  "arasaac": 2541,
+  "matched": "cheese",
+  "query": "cheese"
+ },
+ "chicken": {
+  "arasaac": 2404,
+  "matched": "chicken",
+  "query": "chicken"
+ },
+ "circle": {
+  "arasaac": 4603,
+  "matched": "circle",
+  "query": "circle"
+ },
+ "clap": {
+  "arasaac": 4563,
+  "matched": "applaud",
+  "query": "clap"
+ },
+ "class": {
+  "arasaac": 5913,
+  "matched": "classroom",
+  "query": "classroom"
+ },
+ "climb": {
+  "arasaac": 6617,
+  "matched": "go upstairs",
+  "query": "climb"
+ },
+ "close": {
+  "arasaac": 2697,
+  "matched": "close",
+  "query": "close"
+ },
+ "cold": {
+  "arasaac": 4652,
+  "matched": "cold",
+  "query": "cold"
+ },
+ "come": {
+  "arasaac": 11708,
+  "matched": "come",
+  "query": "come"
+ },
+ "computer": {
+  "arasaac": 2487,
+  "matched": "computer",
+  "query": "computer"
+ },
+ "cook": {
+  "arasaac": 2342,
+  "matched": "cook",
+  "query": "cook"
+ },
+ "cookie": {
+  "arasaac": 8312,
+  "matched": "biscuit",
+  "query": "cookie"
+ },
+ "couch": {
+  "arasaac": 2571,
+  "matched": "sofa",
+  "query": "sofa"
+ },
+ "count": {
+  "arasaac": 2714,
+  "matched": "count",
+  "query": "count"
+ },
+ "cow": {
+  "arasaac": 2609,
+  "matched": "cow",
+  "query": "cow"
+ },
+ "cracker": {
+  "arasaac": 37883,
+  "matched": "(override)",
+  "query": "cracker"
+ },
+ "dad": {
+  "arasaac": 2497,
+  "matched": "father",
+  "query": "father"
+ },
+ "dance": {
+  "arasaac": 2652,
+  "matched": "dance",
+  "query": "dance"
+ },
+ "desk": {
+  "arasaac": 11302,
+  "matched": "school table",
+  "query": "school table"
+ },
+ "do": {
+  "arasaac": 11749,
+  "matched": "make",
+  "query": "do"
+ },
+ "do-you": {
+  "arasaac": 7217,
+  "matched": "question",
+  "query": "question"
+ },
+ "doctor": {
+  "arasaac": 2467,
+  "matched": "doctor",
+  "query": "doctor"
+ },
+ "dog": {
+  "arasaac": 2517,
+  "matched": "dog",
+  "query": "dog"
+ },
+ "doll": {
+  "arasaac": 2482,
+  "matched": "doll",
+  "query": "doll"
+ },
+ "don-t-know": {
+  "arasaac": 7180,
+  "matched": "I do not know",
+  "query": "I don't know"
+ },
+ "door": {
+  "arasaac": 3244,
+  "matched": "door",
+  "query": "door"
+ },
+ "down": {
+  "arasaac": 6053,
+  "matched": "descend",
+  "query": "descend"
+ },
+ "draw": {
+  "arasaac": 5506,
+  "matched": "draw",
+  "query": "draw"
+ },
+ "drink": {
+  "arasaac": 2276,
+  "matched": "drink",
+  "query": "drink"
+ },
+ "duck": {
+  "arasaac": 2563,
+  "matched": "duck",
+  "query": "duck"
+ },
+ "eat": {
+  "arasaac": 2349,
+  "matched": "eat",
+  "query": "eat"
+ },
+ "elephant": {
+  "arasaac": 2372,
+  "matched": "elephant",
+  "query": "elephant"
+ },
+ "excited": {
+  "arasaac": 39090,
+  "matched": "excited",
+  "query": "excited"
+ },
+ "excuse-me": {
+  "arasaac": 24863,
+  "matched": "attention",
+  "query": "attention"
+ },
+ "family": {
+  "arasaac": 2392,
+  "matched": "family",
+  "query": "family"
+ },
+ "fast": {
+  "arasaac": 5306,
+  "matched": "quick",
+  "query": "fast"
+ },
+ "feel": {
+  "arasaac": 3293,
+  "matched": "touch",
+  "query": "feel"
+ },
+ "find": {
+  "arasaac": 5990,
+  "matched": "find",
+  "query": "find"
+ },
+ "fish": {
+  "arasaac": 2519,
+  "matched": "fish",
+  "query": "fish"
+ },
+ "french-fries": {
+  "arasaac": 8653,
+  "matched": "(override)",
+  "query": "french fries"
+ },
+ "friend": {
+  "arasaac": 8486,
+  "matched": "friend",
+  "query": "friend"
+ },
+ "frog": {
+  "arasaac": 2543,
+  "matched": "frog",
+  "query": "frog"
+ },
+ "frustrated": {
+  "arasaac": 38811,
+  "matched": "furious",
+  "query": "furious"
+ },
+ "game": {
+  "arasaac": 6170,
+  "matched": "game",
+  "query": "game"
+ },
+ "give": {
+  "arasaac": 17038,
+  "matched": "give",
+  "query": "give"
+ },
+ "go": {
+  "arasaac": 2432,
+  "matched": "go",
+  "query": "go"
+ },
+ "good-morning": {
+  "arasaac": 6944,
+  "matched": "good morning",
+  "query": "good morning"
+ },
+ "good-night": {
+  "arasaac": 6942,
+  "matched": "good night",
+  "query": "good night"
+ },
+ "grandma": {
+  "arasaac": 2243,
+  "matched": "grandmother",
+  "query": "grandmother"
+ },
+ "grandpa": {
+  "arasaac": 2244,
+  "matched": "grandfather",
+  "query": "grandfather"
+ },
+ "grapes": {
+  "arasaac": 3247,
+  "matched": "grapes",
+  "query": "grapes"
+ },
+ "green": {
+  "arasaac": 4886,
+  "matched": "green",
+  "query": "green"
+ },
+ "happy": {
+  "arasaac": 3245,
+  "matched": "content",
+  "query": "happy"
+ },
+ "headache": {
+  "arasaac": 28651,
+  "matched": "headache",
+  "query": "headache"
+ },
+ "headphones": {
+  "arasaac": 5915,
+  "matched": "headphones",
+  "query": "headphones"
+ },
+ "heart": {
+  "arasaac": 2715,
+  "matched": "heart",
+  "query": "heart"
+ },
+ "help": {
+  "arasaac": 4570,
+  "matched": "help",
+  "query": "help"
+ },
+ "here": {
+  "arasaac": 5382,
+  "matched": "here",
+  "query": "here"
+ },
+ "hi": {
+  "arasaac": 6009,
+  "matched": "hello",
+  "query": "hello"
+ },
+ "hold": {
+  "arasaac": 38011,
+  "matched": "(override)",
+  "query": "hold"
+ },
+ "home": {
+  "arasaac": 2317,
+  "matched": "house",
+  "query": "house"
+ },
+ "homework": {
+  "arasaac": 11228,
+  "matched": "homework",
+  "query": "homework"
+ },
+ "horse": {
+  "arasaac": 2294,
+  "matched": "horse",
+  "query": "horse"
+ },
+ "hot": {
+  "arasaac": 2300,
+  "matched": "hot",
+  "query": "hot"
+ },
+ "how": {
+  "arasaac": 12313,
+  "matched": "how",
+  "query": "how"
+ },
+ "how-many": {
+  "arasaac": 7073,
+  "matched": "how many?",
+  "query": "how many"
+ },
+ "hug": {
+  "arasaac": 4550,
+  "matched": "hug",
+  "query": "hug"
+ },
+ "hungry": {
+  "arasaac": 4962,
+  "matched": "hungry",
+  "query": "hungry"
+ },
+ "hurt": {
+  "arasaac": 5484,
+  "matched": "injury",
+  "query": "hurt"
+ },
+ "i": {
+  "arasaac": 2617,
+  "matched": "I",
+  "query": "I"
+ },
+ "ice-cream": {
+  "arasaac": 3348,
+  "matched": "ice cream",
+  "query": "ice cream"
+ },
+ "in": {
+  "arasaac": 7034,
+  "matched": "in",
+  "query": "in"
+ },
+ "is": {
+  "arasaac": 5466,
+  "matched": "(override)",
+  "query": "be"
+ },
+ "is-it": {
+  "arasaac": 5465,
+  "matched": "be",
+  "query": "be"
+ },
+ "it": {
+  "arasaac": 31670,
+  "matched": "It",
+  "query": "it"
+ },
+ "jacket": {
+  "arasaac": 2319,
+  "matched": "jacket",
+  "query": "jacket"
+ },
+ "juice": {
+  "arasaac": 11461,
+  "matched": "juice",
+  "query": "juice"
+ },
+ "jump": {
+  "arasaac": 2804,
+  "matched": "jump",
+  "query": "jump"
+ },
+ "kick": {
+  "arasaac": 7137,
+  "matched": "(override)",
+  "query": "kick"
+ },
+ "kitchen": {
+  "arasaac": 5965,
+  "matched": "kitchen",
+  "query": "kitchen"
+ },
+ "learn": {
+  "arasaac": 8029,
+  "matched": "learn",
+  "query": "learn"
+ },
+ "like": {
+  "arasaac": 2418,
+  "matched": "like",
+  "query": "like"
+ },
+ "lion": {
+  "arasaac": 2449,
+  "matched": "lion",
+  "query": "lion"
+ },
+ "lonely": {
+  "arasaac": 7253,
+  "matched": "solitary",
+  "query": "lonely"
+ },
+ "long": {
+  "arasaac": 4675,
+  "matched": "long",
+  "query": "long"
+ },
+ "look": {
+  "arasaac": 2474,
+  "matched": "see",
+  "query": "look"
+ },
+ "loud": {
+  "arasaac": 4686,
+  "matched": "shout",
+  "query": "shout"
+ },
+ "love": {
+  "arasaac": 6600,
+  "matched": "love",
+  "query": "love"
+ },
+ "lunch": {
+  "arasaac": 4609,
+  "matched": "lunch",
+  "query": "lunch"
+ },
+ "make": {
+  "arasaac": 6190,
+  "matched": "prepare",
+  "query": "make"
+ },
+ "medicine": {
+  "arasaac": 8359,
+  "matched": "powdered medicine",
+  "query": "medicine"
+ },
+ "milk": {
+  "arasaac": 2445,
+  "matched": "milk",
+  "query": "milk"
+ },
+ "mom": {
+  "arasaac": 2458,
+  "matched": "mum",
+  "query": "mother"
+ },
+ "monkey": {
+  "arasaac": 2477,
+  "matched": "monkey",
+  "query": "monkey"
+ },
+ "more": {
+  "arasaac": 5508,
+  "matched": "more",
+  "query": "more"
+ },
+ "music": {
+  "arasaac": 24795,
+  "matched": "music",
+  "query": "music"
+ },
+ "my-turn": {
+  "arasaac": 6006,
+  "matched": "turn",
+  "query": "turn"
+ },
+ "need": {
+  "arasaac": 37160,
+  "matched": "need",
+  "query": "need"
+ },
+ "nice": {
+  "arasaac": 7251,
+  "matched": "pleasant",
+  "query": "nice"
+ },
+ "no": {
+  "arasaac": 5525,
+  "matched": "no",
+  "query": "no"
+ },
+ "not": {
+  "arasaac": 26937,
+  "matched": "negative",
+  "query": "negative"
+ },
+ "not-now": {
+  "arasaac": 13080,
+  "matched": "after",
+  "query": "later"
+ },
+ "on": {
+  "arasaac": 7814,
+  "matched": "over",
+  "query": "on"
+ },
+ "open": {
+  "arasaac": 4549,
+  "matched": "open",
+  "query": "open"
+ },
+ "orange": {
+  "arasaac": 2888,
+  "matched": "(override)",
+  "query": "orange"
+ },
+ "pajamas": {
+  "arasaac": 2522,
+  "matched": "pyjama",
+  "query": "pyjamas"
+ },
+ "paper": {
+  "arasaac": 2398,
+  "matched": "paper",
+  "query": "paper"
+ },
+ "pasta": {
+  "arasaac": 8652,
+  "matched": "pasta",
+  "query": "pasta"
+ },
+ "pencil": {
+  "arasaac": 2440,
+  "matched": "pencil",
+  "query": "pencil"
+ },
+ "pig": {
+  "arasaac": 2327,
+  "matched": "pig",
+  "query": "pig"
+ },
+ "pink": {
+  "arasaac": 2807,
+  "matched": "pink",
+  "query": "pink"
+ },
+ "pizza": {
+  "arasaac": 2527,
+  "matched": "pizza",
+  "query": "pizza"
+ },
+ "play": {
+  "arasaac": 2439,
+  "matched": "play",
+  "query": "play"
+ },
+ "playground": {
+  "arasaac": 2859,
+  "matched": "playground",
+  "query": "playground"
+ },
+ "please": {
+  "arasaac": 8194,
+  "matched": "please",
+  "query": "please"
+ },
+ "proud": {
+  "arasaac": 31408,
+  "matched": "proud",
+  "query": "proud"
+ },
+ "pull": {
+  "arasaac": 36454,
+  "matched": "(override)",
+  "query": "tug"
+ },
+ "purple": {
+  "arasaac": 2907,
+  "matched": "purple",
+  "query": "purple"
+ },
+ "push": {
+  "arasaac": 4638,
+  "matched": "push",
+  "query": "push"
+ },
+ "puzzle": {
+  "arasaac": 2540,
+  "matched": "puzzle",
+  "query": "puzzle"
+ },
+ "quiet": {
+  "arasaac": 38050,
+  "matched": "quiet",
+  "query": "quiet"
+ },
+ "quiet-space": {
+  "arasaac": 5936,
+  "matched": "silence",
+  "query": "silence"
+ },
+ "rabbit": {
+  "arasaac": 2351,
+  "matched": "rabbit",
+  "query": "rabbit"
+ },
+ "read": {
+  "arasaac": 28643,
+  "matched": "(override)",
+  "query": "read"
+ },
+ "recess": {
+  "arasaac": 2859,
+  "matched": "playground",
+  "query": "playground"
+ },
+ "red": {
+  "arasaac": 2808,
+  "matched": "red",
+  "query": "red"
+ },
+ "ride": {
+  "arasaac": 5517,
+  "matched": "ride a bike",
+  "query": "ride"
+ },
+ "run": {
+  "arasaac": 2719,
+  "matched": "run",
+  "query": "run"
+ },
+ "sad": {
+  "arasaac": 2606,
+  "matched": "sad",
+  "query": "sad"
+ },
+ "sandwich": {
+  "arasaac": 2281,
+  "matched": "sandwich",
+  "query": "sandwich"
+ },
+ "scared": {
+  "arasaac": 2261,
+  "matched": "scared",
+  "query": "scared"
+ },
+ "school": {
+  "arasaac": 3082,
+  "matched": "school",
+  "query": "school"
+ },
+ "scissors": {
+  "arasaac": 2591,
+  "matched": "scissors",
+  "query": "scissors"
+ },
+ "share": {
+  "arasaac": 15361,
+  "matched": "share",
+  "query": "share"
+ },
+ "sheep": {
+  "arasaac": 2489,
+  "matched": "sheep",
+  "query": "sheep"
+ },
+ "shoes": {
+  "arasaac": 2622,
+  "matched": "shoes",
+  "query": "shoes"
+ },
+ "short": {
+  "arasaac": 25839,
+  "matched": "(override)",
+  "query": "short"
+ },
+ "show": {
+  "arasaac": 11308,
+  "matched": "show",
+  "query": "show"
+ },
+ "shower": {
+  "arasaac": 2370,
+  "matched": "shower",
+  "query": "shower"
+ },
+ "shy": {
+  "arasaac": 8707,
+  "matched": "shy",
+  "query": "shy"
+ },
+ "sick": {
+  "arasaac": 3308,
+  "matched": "ill",
+  "query": "sick"
+ },
+ "silly": {
+  "arasaac": 2854,
+  "matched": "clown",
+  "query": "clown"
+ },
+ "sing": {
+  "arasaac": 2315,
+  "matched": "sing",
+  "query": "sing"
+ },
+ "sister": {
+  "arasaac": 2422,
+  "matched": "sister",
+  "query": "sister"
+ },
+ "sit": {
+  "arasaac": 6611,
+  "matched": "sit",
+  "query": "sit"
+ },
+ "sleep": {
+  "arasaac": 2369,
+  "matched": "sleep",
+  "query": "sleep"
+ },
+ "slide": {
+  "arasaac": 4759,
+  "matched": "slide",
+  "query": "slide"
+ },
+ "slow": {
+  "arasaac": 4676,
+  "matched": "slow",
+  "query": "slow"
+ },
+ "small": {
+  "arasaac": 4716,
+  "matched": "small",
+  "query": "small"
+ },
+ "snack": {
+  "arasaac": 28206,
+  "matched": "(override)",
+  "query": "snack"
+ },
+ "sorry": {
+  "arasaac": 11625,
+  "matched": "sorry",
+  "query": "sorry"
+ },
+ "square": {
+  "arasaac": 4616,
+  "matched": "square",
+  "query": "square"
+ },
+ "stand": {
+  "arasaac": 13368,
+  "matched": "stand",
+  "query": "stand"
+ },
+ "star": {
+  "arasaac": 2752,
+  "matched": "star",
+  "query": "star"
+ },
+ "stop": {
+  "arasaac": 7195,
+  "matched": "(override)",
+  "query": "stop"
+ },
+ "surprised": {
+  "arasaac": 2574,
+  "matched": "surprised",
+  "query": "surprised"
+ },
+ "swing": {
+  "arasaac": 4608,
+  "matched": "swing",
+  "query": "swing"
+ },
+ "tablet": {
+  "arasaac": 9165,
+  "matched": "tablet pc",
+  "query": "tablet"
+ },
+ "take": {
+  "arasaac": 6139,
+  "matched": "(override)",
+  "query": "take"
+ },
+ "teacher": {
+  "arasaac": 2457,
+  "matched": "teacher",
+  "query": "teacher"
+ },
+ "teddy-bear": {
+  "arasaac": 4945,
+  "matched": "teddy-bear",
+  "query": "teddy bear"
+ },
+ "thank-you": {
+  "arasaac": 8129,
+  "matched": "thanks",
+  "query": "thank you"
+ },
+ "that": {
+  "arasaac": 6906,
+  "matched": "that one",
+  "query": "that"
+ },
+ "there": {
+  "arasaac": 5375,
+  "matched": "there",
+  "query": "there"
+ },
+ "thirsty": {
+  "arasaac": 4963,
+  "matched": "thirsty",
+  "query": "thirsty"
+ },
+ "this": {
+  "arasaac": 7095,
+  "matched": "this",
+  "query": "this"
+ },
+ "throw": {
+  "arasaac": 6543,
+  "matched": "throw",
+  "query": "throw"
+ },
+ "tired": {
+  "arasaac": 2314,
+  "matched": "tired",
+  "query": "tired"
+ },
+ "tissue": {
+  "arasaac": 8647,
+  "matched": "tissue",
+  "query": "tissue"
+ },
+ "toilet": {
+  "arasaac": 2430,
+  "matched": "toilet",
+  "query": "toilet"
+ },
+ "too-bright": {
+  "arasaac": 3330,
+  "matched": "sun-glasses",
+  "query": "sunglasses"
+ },
+ "too-loud": {
+  "arasaac": 7157,
+  "matched": "noisy",
+  "query": "noisy"
+ },
+ "tracks": {
+  "arasaac": 7299,
+  "matched": "railway",
+  "query": "railway"
+ },
+ "train": {
+  "arasaac": 2603,
+  "matched": "train",
+  "query": "train"
+ },
+ "triangle": {
+  "arasaac": 2604,
+  "matched": "triangle",
+  "query": "triangle"
+ },
+ "tummy-ache": {
+  "arasaac": 28766,
+  "matched": "stomach ache",
+  "query": "stomach ache"
+ },
+ "turtle": {
+  "arasaac": 10241,
+  "matched": "turtle",
+  "query": "turtle"
+ },
+ "tv": {
+  "arasaac": 25498,
+  "matched": "television",
+  "query": "television"
+ },
+ "uncomfortable": {
+  "arasaac": 32528,
+  "matched": "uncomfortable",
+  "query": "uncomfortable"
+ },
+ "up": {
+  "arasaac": 5388,
+  "matched": "up",
+  "query": "up"
+ },
+ "wait": {
+  "arasaac": 8109,
+  "matched": "wait",
+  "query": "wait"
+ },
+ "walk": {
+  "arasaac": 3251,
+  "matched": "walk",
+  "query": "walk"
+ },
+ "want": {
+  "arasaac": 5441,
+  "matched": "want",
+  "query": "want"
+ },
+ "wash": {
+  "arasaac": 8977,
+  "matched": "(override)",
+  "query": "wash"
+ },
+ "wash-hands": {
+  "arasaac": 2964,
+  "matched": "soap",
+  "query": "soap"
+ },
+ "water": {
+  "arasaac": 2248,
+  "matched": "water",
+  "query": "water"
+ },
+ "we": {
+  "arasaac": 7185,
+  "matched": "us",
+  "query": "we"
+ },
+ "welcome": {
+  "arasaac": 6936,
+  "matched": "welcome",
+  "query": "welcome"
+ },
+ "what": {
+  "arasaac": 22620,
+  "matched": "what",
+  "query": "what"
+ },
+ "when": {
+  "arasaac": 22621,
+  "matched": "when",
+  "query": "when"
+ },
+ "where": {
+  "arasaac": 7764,
+  "matched": "where",
+  "query": "where"
+ },
+ "which": {
+  "arasaac": 6483,
+  "matched": "choose",
+  "query": "choose"
+ },
+ "white": {
+  "arasaac": 2662,
+  "matched": "white",
+  "query": "white"
+ },
+ "who": {
+  "arasaac": 9853,
+  "matched": "(override)",
+  "query": "who"
+ },
+ "why": {
+  "arasaac": 24763,
+  "matched": "why",
+  "query": "why"
+ },
+ "window": {
+  "arasaac": 2611,
+  "matched": "window",
+  "query": "window"
+ },
+ "worried": {
+  "arasaac": 26985,
+  "matched": "worried",
+  "query": "worried"
+ },
+ "write": {
+  "arasaac": 2380,
+  "matched": "write",
+  "query": "write"
+ },
+ "yellow": {
+  "arasaac": 2648,
+  "matched": "yellow",
+  "query": "yellow"
+ },
+ "yes": {
+  "arasaac": 5583,
+  "matched": "yes",
+  "query": "yes"
+ },
+ "you": {
+  "arasaac": 2608,
+  "matched": "you",
+  "query": "you"
+ },
+ "your-name": {
+  "arasaac": 27357,
+  "matched": "first name",
+  "query": "name"
+ },
+ "yucky": {
+  "arasaac": 6155,
+  "matched": "dislike",
+  "query": "disgusting"
+ },
+ "yummy": {
+  "arasaac": 32340,
+  "matched": "nice",
+  "query": "delicious"
+ },
+ "zoo": {
+  "arasaac": 4773,
+  "matched": "zoological garden",
+  "query": "zoo"
+ }
+}
