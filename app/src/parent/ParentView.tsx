@@ -6,7 +6,6 @@ import Monitor from './Monitor.tsx'
 import Matches from './Matches.tsx'
 import Intake from './Intake.tsx'
 import './parent.css'
-import { lockParent } from '../login/parentAccess'
 
 const TABS = [
   { id: 'monitor', label: 'Live hangout' },
@@ -51,7 +50,7 @@ export default function ParentView() {
           <div className="pv-eyebrow">Parent view</div>
           <h1 className="pv-title">{parent.displayName}</h1>
         </div>
-        <button className="pv-btn" onClick={lockParent}>Lock and switch profile</button>
+        <a className="pv-btn" href="/">Switch profile</a>
         <nav className="pv-tabs" role="tablist">
           {TABS.map((t) => (
             <button

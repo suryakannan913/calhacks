@@ -14,7 +14,7 @@
 - **Started:** 2026-10-25T02:27:27Z
 - **Last updated:** 2026-10-25T10:27:29Z
 
-Deployment URLs are not recorded in tracked files; Vercel configuration is in `app/vercel.json`. The frontend password gate is not backend authentication.
+Deployment URLs are not recorded in tracked files; Vercel configuration is in `app/vercel.json`. Demo profiles have no authentication.
 
 ## How we use Convex
 
