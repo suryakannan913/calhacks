@@ -52,7 +52,7 @@ export default function Conversation({
   const endRef = useRef<HTMLDivElement>(null)
   const friendName = friend?.name ?? 'Your friend'
   const friendColor = friend?.color ?? '#8e8e93'
-  // Until the friend has said something we only know "your friend", so show a neutral "?" avatar.
+  // A neutral avatar is only needed if the matched profile is unavailable.
   const avatarName = friend?.name ?? '?'
 
   // Keep the newest message (or the typing bubble) in view.

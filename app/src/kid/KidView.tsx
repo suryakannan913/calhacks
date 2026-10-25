@@ -89,6 +89,7 @@ export default function KidView() {
     <Room
       child={child}
       roomId={room._id}
+      friendName={room.partner?.name ?? null}
       paused={room.status === 'paused'}
       theme={theme}
       onToggleTheme={toggleTheme}
@@ -109,18 +110,19 @@ type Child = NonNullable<ReturnType<typeof useQuery<typeof api.children.getByNam
 function Room({
   child,
   roomId,
+  friendName,
   paused,
   theme,
   onToggleTheme,
 }: {
   child: Child
   roomId: Id<'rooms'>
+  friendName: string | null
   paused: boolean
   theme: Theme
   onToggleTheme: () => void
 }) {
   const messages = useQuery(api.messages.listByRoom, { roomId })
-  const allChildren = useQuery(api.children.list)
   const sendSymbols = useMutation(api.messages.sendSymbols)
   const confirm = useMutation(api.messages.confirm)
   const reject = useMutation(api.messages.reject)
@@ -135,9 +137,7 @@ function Room({
 
   const me: Person = { name: child.name, color: colorFor(child.name) }
 
-  // The friend is whoever else has spoken in this room. Only their name is used.
-  const friendId = messages?.find((m) => m.senderChildId !== child._id)?.senderChildId
-  const friendName = allChildren?.find((c) => c._id === friendId)?.name
+  // Identity comes from the approved match, even before either child speaks.
   const friend: Person | null = friendName ? { name: friendName, color: colorFor(friendName) } : null
 
   const audio = useRoomAudio({

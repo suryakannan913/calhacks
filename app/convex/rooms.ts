@@ -24,7 +24,11 @@ export const forChild = query({
         .query("rooms")
         .withIndex("by_match", (q) => q.eq("matchId", m._id))
         .first();
-      if (room && room.status !== "closed") return room;
+      if (room && room.status !== "closed") {
+        const partnerId = m.childAId === childId ? m.childBId : m.childAId;
+        const partner = await ctx.db.get(partnerId);
+        return { ...room, partner: partner ? { _id: partner._id, name: partner.name } : null };
+      }
     }
     return null;
   },

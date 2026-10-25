@@ -159,3 +159,16 @@ describe("drafts and matching", () => {
     expect(JSON.parse(fetch.mock.calls[0][1].body).tool_choice).toEqual({ type: "auto" });
   });
 });
+
+
+describe("room partner identity", () => {
+  it("identifies both matched children without any message history", async () => {
+    const { t, maya, leo, messageId, roomId } = await fixture();
+    await t.run(ctx => ctx.db.delete(messageId));
+    const mayaRoom = await t.query(api.rooms.forChild, { childId: maya });
+    const leoRoom = await t.query(api.rooms.forChild, { childId: leo });
+    expect(mayaRoom?._id).toBe(roomId);
+    expect(mayaRoom?.partner).toEqual({ _id: leo, name: "Leo" });
+    expect(leoRoom?.partner).toEqual({ _id: maya, name: "Maya" });
+  });
+});
