@@ -64,25 +64,3 @@ publish backend changes under this configuration.
 Implementation: [providers.ts](app/convex/providers.ts),
 [voice.ts](app/convex/voice.ts), [messages.ts](app/convex/messages.ts), and
 [useVoicePlayback.ts](app/src/audio/useVoicePlayback.ts).
-
-## Evidence and limitations
-
-- **47 automated tests passed** at the latest verified code revision. Three new
-  stock voices returned valid WAV audio in three live checks. Synthesis median:
-  **435 ms**, n=3, measured server-to-provider; this excludes playback overhead
-  and does not establish end-to-end latency or perceived naturalness.
-- The earlier two-client playback check used one computer and a development
-  harness. A full rehearsal of the final UI on two physical devices remains.
-- All demo profiles are fictional. Parent profile review, mutual match approval,
-  child confirmation, pre-speech moderation, and parent Pause are implemented.
-  The shared frontend password is **not real authentication or server authorization**.
-- AI can misread intent or incorrectly flag ordinary language. Community
-  accessibility, comprehension, voice preference, and friendship outcomes have
-  not been evaluated. Pictograms are credited in the child UI.
-- Audio is generated as complete files, not streamed. Network/provider access and
-  browser audio permission are required. Complete retention/account deletion,
-  provider-side data review, sustained load, and actual billed cost remain open.
-
-See [verification details](app/DEMO_READINESS.md) and
-[recorded live results](app/evidence/2026-10-25/). The frontend uses React/Vite;
-frontend and backend application code use TypeScript.
